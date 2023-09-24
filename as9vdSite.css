@@ -1,0 +1,43 @@
+* {
+    background-color: #D8DEE9;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.document-div {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
+    width: 75%;
+    text-align: center;
+}
+
+.name-header {
+    margin-top: 3.6rem;
+    font-size: 4.2rem;
+    width: 75%;
+}
+
+.paragraphs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+}
+
+.paragraph {
+    font-size: 1.8rem;
+    width: 75%;
+    line-height: 2.4rem;
+}
