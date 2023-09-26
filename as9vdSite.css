@@ -21,6 +21,7 @@
     align-items: center;
     gap: 2.4rem;
     width: 60%;
+    height: 100%;
     background-color: #D8DEE9;
 }
 
@@ -176,4 +177,8 @@
     text-decoration: none;
     font-weight: 500;
     color: #BF616A;
+}
+
+.last-paragraph {
+    margin-bottom: 2.4rem;
 }
